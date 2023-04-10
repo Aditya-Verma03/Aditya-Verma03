@@ -1,4 +1,5 @@
-## Hi there 👋
+
+<h1 align="center">Hi 👋, I'm Aditya Verma</h1> <h3 align="center">
 
 <!--
 **Aditya-Verma03/Aditya-Verma03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
